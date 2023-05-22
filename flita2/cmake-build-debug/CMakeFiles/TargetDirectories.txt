@@ -1,0 +1,3 @@
+C:/Users/tonya/Desktop/study/flita2/cmake-build-debug/CMakeFiles/flita2.dir
+C:/Users/tonya/Desktop/study/flita2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tonya/Desktop/study/flita2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
